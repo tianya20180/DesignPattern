@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/wangxi/Documents/NetBeansProjects/设计模式/src/策略模式/FlyBehavior.java</file>
+            <file>file:/C:/Users/wangxi/Documents/NetBeansProjects/设计模式/src/策略模式/FlyWithNoWay.java</file>
+            <file>file:/C:/Users/wangxi/Documents/NetBeansProjects/设计模式/src/观察者模式/Test.java</file>
+            <file>file:/C:/Users/wangxi/Documents/NetBeansProjects/设计模式/src/策略模式/Duck.java</file>
+            <file>file:/C:/Users/wangxi/Documents/NetBeansProjects/设计模式/src/观察者模式/DisplayElement.java</file>
+            <file>file:/C:/Users/wangxi/Documents/NetBeansProjects/设计模式/src/策略模式/FlyWithWings.java</file>
+            <file>file:/C:/Users/wangxi/Documents/NetBeansProjects/设计模式/src/策略模式/Test.java</file>
+            <file>file:/C:/Users/wangxi/Documents/NetBeansProjects/设计模式/src/策略模式/QuackBehavior.java</file>
+            <file>file:/C:/Users/wangxi/Documents/NetBeansProjects/设计模式/src/策略模式/QuackScilence.java</file>
+            <file>file:/C:/Users/wangxi/Documents/NetBeansProjects/设计模式/src/观察者模式/Subject.java</file>
+            <file>file:/C:/Users/wangxi/Documents/NetBeansProjects/设计模式/src/策略模式/ModelDuck.java</file>
+            <file>file:/C:/Users/wangxi/Documents/NetBeansProjects/设计模式/src/策略模式/Quack.java</file>
+            <file>file:/C:/Users/wangxi/Documents/NetBeansProjects/设计模式/src/观察者模式/Observer.java</file>
+            <file>file:/C:/Users/wangxi/Documents/NetBeansProjects/设计模式/src/策略模式/Main.java</file>
+            <file>file:/C:/Users/wangxi/Documents/NetBeansProjects/设计模式/src/观察者模式/WeatherData.java</file>
+            <file>file:/C:/Users/wangxi/Documents/NetBeansProjects/设计模式/src/观察者模式/ConditionDisplay.java</file>
+        </group>
+    </open-files>
+</project-private>
